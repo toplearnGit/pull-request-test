@@ -1,0 +1,1 @@
+alert('This file is Rate.js');
